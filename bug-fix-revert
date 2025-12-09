@@ -1,12 +1,12 @@
 Command:
-curl -s https://api.github.com/repos/YOUR_USERNAME/mcino-Introduction-to-Git-and-GitHub/pulls/1
+curl -s https://api.github.com/repos/haazhelthorn/mcino-Introduction-to-Git-and-GitHub/pulls/1
 
 Output:
 {
   "id": ...,
   "head": {
     "repo": {
-      "full_name": "YOUR_USERNAME/mcino-Introduction-to-Git-and-GitHub"
+      "full_name": "haazhelthorn/mcino-Introduction-to-Git-and-GitHub"
     }
   },
   "base": {
