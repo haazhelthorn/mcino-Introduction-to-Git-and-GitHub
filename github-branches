@@ -1,0 +1,4 @@
+$ git branch -av
+* main                 abc123 Initial commit
+  bug-fix-typo         def456 Fix typo
+  feature-branch       ghi789 Add new feature
